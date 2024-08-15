@@ -1,0 +1,5 @@
+target/
+.idea/
+*.iml
+# test directory is used for testing the obfusctor with jar files
+test/
